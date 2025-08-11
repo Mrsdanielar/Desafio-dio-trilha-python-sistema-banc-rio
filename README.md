@@ -1,4 +1,4 @@
-✨ Sistema Bancário Simples ✨
+<p align="center"> ✨ Sistema Bancário Simples ✨
 
 ## Descrição do Projeto
 Este é um sistema bancário simples, desenvolvido em Python, que simula operações básicas como depósito, saque e visualização de extrato. O projeto foi criado como parte do desafio da trilha de Python 🐍 do bootcamp **Santander 2025 em parceria com a DIO**.
